@@ -1,4 +1,4 @@
-# ConnectSea Solução Completa (SQL Server)
+# ConnectSea API Demo (SQL Server)
 
 Este repositório contém um backend configurado para **SQL Server**.
 
